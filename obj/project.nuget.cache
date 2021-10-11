@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y0sNaktHnXmlnCCUFcM7QgG+On/dedpXsw922LYQarl69xvHP24v/ZVNJ36lVCyphhww01SNiXoMb6kAh0hMPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aoi18\\source\\repos\\my-razor-web-app\\my-razor-web-app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aoi18\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
